@@ -1,5 +1,14 @@
 source 'https://rubygems.org'
 
+# Dependabot fixes
+gem "globalid", ">= 1.0.1"
+gem "activerecord", ">= 6.1.7.1"
+gem "rack", ">= 2.2.8.1"
+gem "paperclip", ">= 5.2.0"
+gem "activerecord", ">= 6.1.7.1"
+gem "actionpack", ">= 6.1.7.4"
+gem "json", ">= 2.3.0"
+gem "rdoc", ">= 6.1.2.1"
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7.1'
