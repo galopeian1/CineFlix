@@ -9,6 +9,8 @@ gem "activerecord", ">= 6.1.7.1"
 gem "actionpack", ">= 6.1.7.4"
 gem "json", ">= 2.3.0"
 gem "rdoc", ">= 6.1.2.1"
+gem "actionview", ">= 5.2.7.1"
+
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.7.1'
